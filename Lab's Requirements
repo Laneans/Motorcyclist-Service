@@ -1,0 +1,12 @@
+Inheritance Lab's Requirements (Java):
+
+Create a console application that meets the following requirements:
+1) Use OOP features: classes, inheritance, polymorphism, encapsulation;
+2) Each class must have a meaningful name and informative composition (fields, set, get, constructors, toString);
+3) Inheritance should be applied only when it has meaning;
+4) - one interface;
+   - abstract class;
+   - one internal class;
+   - enum;
+   - collecting objects use standard collections;
+   - console menu.
